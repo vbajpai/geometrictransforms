@@ -9,3 +9,9 @@ Transformation supported:
 * Translation
 * Rotation
 * Scaling
+
+Documents:
+----------
+
+* [Report](http://cloud.github.com/downloads/vbajpai/geometrictransforms/report.pdf)
+* [Slides](https://github.com/downloads/vbajpai/geometrictransforms/presentation.ppt)
